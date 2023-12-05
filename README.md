@@ -35,6 +35,6 @@ I am currently in retail sales of automotive parts and tools. I earned an Associ
  
  [Markdown Guide](https://www.markdownguide.org/getting-started/)
 
-[Markdown]() 
+[NOTES]() 
  
 
