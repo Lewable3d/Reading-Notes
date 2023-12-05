@@ -31,3 +31,9 @@ I am currently in retail sales of automotive parts and tools. I earned an Associ
 
  ![IMG_3999](https://github.com/Lewable3d/reading-notes/assets/152819406/1c88fb87-f47c-47b2-aa54-0d0d517fb358)
 
+* Notes
+ 
+ [marksdown 102](
+
+ 
+
