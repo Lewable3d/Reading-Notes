@@ -1,5 +1,4 @@
-# Reading-Notes
-## Lewis H. Ables III reading journal for Code Fellows
+# Lewis H. Ables III reading journal for Code Fellows
 
 > *"Growth Mindset is self-awareness and belief in becoming better through sacrifice, dedication, and deligence."*
 
@@ -20,8 +19,12 @@ I am currently in retail sales of automotive parts and tools. I earned an Associ
 
  **Contact Info:**
  
- Cell Phone: 405-764-2805
-
- Work Phone: 405-427-5511
+ Cell Phone: 
  
- Email: lewisables3@gmail.com and 80productions405@gmail.com
+ 405-764-2805
+
+ Work Phone: 
+ 
+ 405-427-5511
+ 
+ Email:  lewisables3@gmail.com & 80productions405@gmail.com
