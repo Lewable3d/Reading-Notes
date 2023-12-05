@@ -28,3 +28,5 @@ I am currently in retail sales of automotive parts and tools. I earned an Associ
  405-427-5511
  
  Email:  lewisables3@gmail.com & 80productions405@gmail.com
+
+ 
