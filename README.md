@@ -33,7 +33,7 @@ I am currently in retail sales of automotive parts and tools. I earned an Associ
 
 * Notes
  
- [marksdown 102](
+ [marksdown 102](https://github.com/Lewable3d/reading-notes/blob/main/Markdown%20102%20Notes)
 
  
 
