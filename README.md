@@ -14,7 +14,7 @@
 ### Hello Everyone!
 
 I am very excited about my new journey in computer science. I joined _Code Fellows_ to extend my computer skills and knowledge. 
-I am currently in retail sales of automotive parts and tools. I earned an Associates degree in Accounting from _Oklahoma State University_, a computer-aided architectural drafting certificate and Automotive Technology certificate From _Metro Technology Centers_ and I also started my own music production company; _Infinite/80 Productions,LLC_. I plan to pair my new aquiring computer science knowledge with my other degrees and certificates to better my life.
+I am currently in retail sales of automotive parts and tools. I earned an Associates degree in Accounting from _Oklahoma State University_, a Computer-Aided Architectural Drafting certificate and Automotive Technology certificate From _Metro Technology Centers_ and I also started my own music production company; _Infinite/80 Productions,LLC_. I plan to pair my new aquiring computer science knowledge with my other degrees and certificates to better my life.
 
 [Lewis H. Ables III github profile](https://github.com/Lewable3d)
 
