@@ -1,4 +1,4 @@
-# Lewis H. Ables III reading journal for Code Fellows
+# Lewis H. Ables III Reading Journal for Code Fellows
 
 > *"Growth Mindset is self-awareness and belief in becoming better through sacrifice, dedication, and deligence."*
 
@@ -15,7 +15,7 @@
 I am very excited about my new journey in computer science. I joined _Code Fellows_ to extend my computer skills and knowledge. 
 I am currently in retail sales of automotive parts and tools. I earned an Associates degree in Accounting from _Oklahoma State University_, a Computer-Aided Architectural Drafting certificate and Automotive Technology certificate From _Metro Technology Centers_ and I also started my own music production company; _Infinite/80 Productions,LLC_. I plan to pair my new aquiring computer science knowledge with my other degrees and certificates to better my life and business.
 
-[Lewis H. Ables III github profile](https://github.com/Lewable3d)
+*[Lewis H. Ables III github profile](https://github.com/Lewable3d)*
 
  **Contact Info:**
  
@@ -33,14 +33,14 @@ I am currently in retail sales of automotive parts and tools. I earned an Associ
 
 
 ## NOTES
-- [Code-102](https://lewable3d.github.io/Code-102/)
+- *[Code-102](https://lewable3d.github.io/Code-102/)*
 
-- [Code-201](https://lewable3d.github.io/Code-201/)
+- *[Code-201](https://lewable3d.github.io/Code-201/)*
 
-- [Code-301](https://lewable3d.github.io/Code-301/)
+- *[Code-301](https://lewable3d.github.io/Code-301/)*
  
-- [Code-401](https://lewable3d.github.io/Code-401/)
+- *[Code-401](https://lewable3d.github.io/Code-401/)*
 
-- [Code-501](https://lewable3d.github.io/Code-401/)
+- *[Code-501](https://lewable3d.github.io/Code-401/)*
 
-- [Code-601]
+- *[Code-601]*
