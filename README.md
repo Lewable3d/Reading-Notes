@@ -36,5 +36,11 @@ I am currently in retail sales of automotive parts and tools. I earned an Associ
 - [Code-102](https://lewable3d.github.io/Code-102/)
 
 - [Code-201](https://lewable3d.github.io/Code-201/)
- 
 
+- [Code-301]
+ 
+- [Code-401]
+
+- [Code-501]
+
+- [Code-601]
