@@ -39,9 +39,9 @@ I am currently in retail sales of automotive parts and tools. I earned an Associ
 
 ## NOTES
 
-- **[Code-102-Class-1](https://lewable3d.github.io/Reading-Notes/Class01)**
+- **[Code-102-Class-1](https://lewable3d.github.io/Reading-Notes/Class%2001)**
 
-- **[Code-102-Class-2](https://lewable3d.github.io/Reading-Notes/Class02)**
+- **[Code-102-Class-2](https://lewable3d.github.io/Reading-Notes/Class%2002)**
 
 
 
