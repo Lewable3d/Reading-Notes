@@ -1,6 +1,6 @@
 # Code-102-Class-1   
 
-*[Main Page:Code Fellow Lewis](https://lewable3d.github.io/Code-Fellow/)*        
+*[[Code Fellow Lewis Main Page](https://lewable3d.github.io/Reading-Notes/)*       
 
 *[Lewis H. Ables III github profile](https://github.com/Lewable3d)*
 
@@ -61,7 +61,7 @@ always put a space between the number signs and the heading name.
 
 > [Title] (URL)
 
-  *[Code Fellow Lewis](https://lewable3d.github.io/Code-Fellow/)*
+*[Code Fellow Lewis Main Page](https://lewable3d.github.io/Reading-Notes/)*
 
 # BlockQuotes
 
