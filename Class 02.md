@@ -10,13 +10,34 @@
 
 # The Terminal or The Command Line Interface (cli) vs File Directory
 
-### Commands in Terminal: 
+#### Command Line Best Practices for using *~cd* change directory command: 
 
-- *~pwd* (Print working directory): Command *~pwd* shows us where we are in file directory. (users/lewisables/CODE FELLOWS)
+###### Remember spaces and capitalization is important; they effect your commands.
 
-- *~ls* (List) Command: *~ls* shows list of directories (files) where you are currently at in file directory: Applications CODEFELLOWS Documents etc..
+- *Use tab for auto-complete if you are prone to typos; type first letter of file then tab*
 
-- *~ls* Arguments: We can use arguments with the *~ls* command to make the command behave differently.
+- *Use periods or "dots" to navigate backwards to previous folder in terminal. One period means where you are and two periods means previous folder or back one level. Three periods means back two levels. 
+
+### *~cd ..* 
+*Back one level*
+
+### Commands in Terminal ~ : 
+
+*pwd* to see where you are; *ls* to see files where you are; and *cd* to change directories. 
+
+- *~clear* Clears terminal screen
+
+- *~pwd* "Print working directory": *~pwd* shows us where we are in file directory. (users/lewisables/CODE FELLOWS)
+
+- *~ls* "List" *~ls* shows list of directories (files) where you are currently at in file directory applications CODEFELLOWS Documents etc..
+
+- *~cd* "Change Directory" This how you move around in the terminal screen. *~cd*  takes you to your home directory. *~cd* space "then name of folder";  is how you navigate using your terminal.
+
+- *~mkdir* Command to make a directory *~mkdir* *space* "name of directory"
+
+### Arguments:
+
+- *~ls* Arguments: We can use arguments with commands in the Terminal to make the command behave differently.
 
 - *~ls* Arguments
 
