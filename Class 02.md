@@ -8,6 +8,22 @@
 
 *[Basic Syntax](https://www.markdownguide.org/basic-syntax/)*
 
+# The Terminal or The Command Line Interface (cli) vs File Directory
+
+### Commands in Terminal: 
+
+- *~pwd* (Print working directory): Command *~pwd* shows us where we are in file directory. (users/lewisables/CODE FELLOWS)
+
+- *~ls* (List) Command: *~ls* shows list of directories (files) where you are currently at in file directory: Applications CODEFELLOWS Documents etc..
+
+- *~ls* Arguments: We can use arguments with the *~ls* command to make the command behave differently.
+
+- *~ls* Arguments
+
+- *~ls -l* commands list to display as a list with more detail about each file.
+
+- *~ls -a* commands list to show all hidden files. Your configuration files.
+
 # Text Editor vs Coding-Specific Text Editor vs IDE (Integrated Developement Environment)
 
 ## NOTES
