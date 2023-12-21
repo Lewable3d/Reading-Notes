@@ -1,6 +1,6 @@
 # Code-102-Class-2
 
-*[Main Page:Code Fellow Lewis](https://lewable3d.github.io/Code-Fellow/)*        
+*[Main Page:Code Fellow Lewis](https://lewable3d.github.io/Reading-Notes/)*        
 
 *[Lewis H. Ables III github profile](https://github.com/Lewable3d)*
 
