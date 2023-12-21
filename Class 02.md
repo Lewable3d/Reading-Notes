@@ -12,14 +12,17 @@
 
 #### Command Line Best Practices for using *~cd* change directory command: 
 
-###### Remember spaces and capitalization is important; they effect your commands.
+###### Remember space and capitalization is important; they effect your commands.
 
-- *Use tab for auto-complete if you are prone to typos; type first letter of file then tab*
+> - *Use tab for auto-complete if you are prone to typos; type first letter of file then tab*
 
-- *Use periods or "dots" to navigate backwards to previous folder in terminal. One period means where you are and two periods means previous folder or back one level. Three periods means back two levels. 
+> - *Use periods or "dots" to navigate backwards to previous folder in terminal.
 
-### *~cd ..* 
-*Back one level*
+> - One period means where you are and two periods means back one level. Three periods means back two levels. 
+
+>> ### *~cd ...* 
+
+>>> *Back two level*
 
 ### Commands in Terminal ~ : 
 
