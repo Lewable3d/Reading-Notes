@@ -80,7 +80,7 @@ Blockquotes can contain multiple paragraphs. Add a > on the blank lines between 
 
 # Code-102 Summary
 
- ### Markdown
+### Markdown
   
 > Markdown is an easy to use mark up language that is used with plain text to add formatting elements to plain text without the use of a formal text editor 
 >or the use of HTML tags. Markdown is a lightweight markup language that you can use to add formatting elements to plain text documents.
