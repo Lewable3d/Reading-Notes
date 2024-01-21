@@ -8,6 +8,8 @@
 
 *[Basic Syntax](https://www.markdownguide.org/basic-syntax/)*
 
+*[Cheat Sheet](https://github.com/ohmyzsh/ohmyzsh/wiki/Cheatsheet)*
+
 # The Terminal or The Command Line Interface (cli) vs File Directory
 
 #### Command Line Best Practices for using *~cd* change directory command: 
