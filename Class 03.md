@@ -10,3 +10,11 @@
 - each repository is a project
 
 ### Sharing Code and Collaboration: dvcs *"distributed visual control system"* for the masses
+
+## Snapshots in time
+
+*git takes snapshots of your project over time*
+
+- Commits represent each successive version of a file or files.
+- Commits are the equivalent of *"Save As"*
+
