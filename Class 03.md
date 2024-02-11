@@ -52,6 +52,7 @@
 - Its a way to share your code with others.
 - GitHub is an online place to store your code. (Backup is Important)
 - Github uses Git to help manage your team's work:
+- >Version Tracking
 
 
 
