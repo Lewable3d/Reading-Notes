@@ -56,8 +56,14 @@
   - reviewing changes
   - keep changes separate until you want to add them in 
 
+### Git is the sport and GitHub is one place, where you play the sport. 
+*You can use Git in other places.*
+- With Git (Version Control) and GitHub (online Code Storage), you can:
+  - teamwork without messing each other up.
+  - keep history of each file
+  - work on code on your own computer and sync it with whats online.
 
-
+## Repositories aka *Repos*
 
 :smirk:
 
