@@ -44,6 +44,8 @@
 - Git has a special label called *Head*, that means *"You Are Hare"*
 - Usually you will want to give your snapshot a label called a message to give detail of your changes.
 
+## GitHub: *Your Code in Cloud*
+
 :smirk:
 
 - **[Code Fellow Lewis Main Page](https://lewable3d.github.io/Reading-Notes/)**
