@@ -118,4 +118,18 @@ A great feature of any text editing software is code completion. Code completion
 
 *[About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)*
 
+:smirk:
+
+- **[Code Fellow Lewis Main Page](https://lewable3d.github.io/Reading-Notes/)**
+
+## NOTES
+
+- **[Code-102-Class-1](https://lewable3d.github.io/Reading-Notes/Class%2001)**
+
+- **[Code-102-Class-2](https://lewable3d.github.io/Reading-Notes/Class%2002)**
+
+- **[Code-102-Class-3](https://lewable3d.github.io/Reading-Notes/Class%2003)**
+
+
+
 
