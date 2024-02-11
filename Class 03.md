@@ -50,6 +50,7 @@
 
 - GitHub is not Git
 - Its a way to share your code with others.
+- GitHub is an online place to store your code. (Backup is Important)
 
 
 
