@@ -46,10 +46,10 @@
 
 ## GitHub: *Your Code, in the Cloud*
 
-GitHub and Git not the same.
+*GitHub and Git not the same.* 
 
--GitHub is not Git
--
+- GitHub is not Git
+- Its a way to share your code with others.
 
 
 
