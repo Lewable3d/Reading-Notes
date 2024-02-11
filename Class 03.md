@@ -21,8 +21,16 @@
 - Git keeps track of what the file looked like at different points in time.
 
 ## Keeping Track
+
 - Each commit (snapshot) has a label that points to it
 - HEAD = The label meaning "You Are Here"
 - You can also assign messages to commits
 - Messages are like writing a caption for your snapshot.
+
+## Git Summary
+
+- You Git to take snapshots of your code at points in time
+- Git keeps a history of what those snapshots look like
+- Git has a special label called *Head*, that means *"You Are Hare"*
+- 
 
