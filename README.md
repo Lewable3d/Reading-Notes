@@ -33,7 +33,9 @@ I am currently in retail sales of automotive parts and tools. I earned an Associ
 
 > * ###### *LewAble3D*
 >
-> > * The Cyber Force is Coding... :smirk:
+> > * The Cyber Force is Coding...
+
+:smirk:
 
 - **[Code Fellow Lewis Main Page](https://lewable3d.github.io/Reading-Notes/)**
 
