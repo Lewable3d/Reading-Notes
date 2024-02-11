@@ -1,4 +1,4 @@
-# *Class 3 Notes*
+ # *Class 3 Notes*
 
 # git 
 
@@ -17,4 +17,6 @@
 
 - Commits represent each successive version of a file or files.
 - Commits are the equivalent of *"Save As"*
+- Each successive version creates a new snapshot on the timeline of the project.
+- Git keeps track of what the file looked like at different points in time.
 
