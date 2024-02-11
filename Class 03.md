@@ -20,3 +20,9 @@
 - Each successive version creates a new snapshot on the timeline of the project.
 - Git keeps track of what the file looked like at different points in time.
 
+## Keeping Track
+- Each commit (snapshot) has a label that points to it
+- HEAD = The label meaning "You Are Here"
+- You can also assign messages to commits
+- Messages are like writing a caption for your snapshot.
+
