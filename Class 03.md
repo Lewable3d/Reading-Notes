@@ -70,6 +70,9 @@
   - Large projects may have multiple repositories for different parts of their system (Repo for front end code vs Repo for back end code)
   - *Repos* (Repositories) can live on GitHub and/or your computer.
 
+## Cloning 
+copying Repos from your GitHub to your computer: connecting information between GitHub and your computer.
+
 
 :smirk:
 
