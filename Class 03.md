@@ -73,7 +73,10 @@
 ## Cloning 
 copying Repos from your GitHub to your computer: connecting information between GitHub and your computer.
 - command in terminal: git clone then paste link
+- command in terminal: git remote -v  git (main) link
 
+## gitflow: acp add, commit, push
+- 
 
 
 
