@@ -89,7 +89,7 @@ copying Repos from your GitHub to your computer: connecting information between 
 
 1. make changes 
 2. git status
-3. git add README.md
+3. git add README.md or git add * (ALL FILES)
 4. git commit -m to changes
 5. git push origin main
 6. git staus

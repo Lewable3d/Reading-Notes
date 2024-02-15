@@ -1,7 +1,5 @@
 # Lewis H. Ables III Reading Journal for Code Fellows
 
-> *"Growth Mindset is self-awareness and belief in becoming better through sacrifice, dedication, and deligence."*
-
 ### _REMEMBER:_ 
 
 - _SUCCESS_ is earned through ~~_MISTAKES_~~
