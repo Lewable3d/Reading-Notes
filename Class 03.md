@@ -65,7 +65,7 @@
 
 ## Repositories aka *Repos*
 
-- it is a collection files that Git is paying attention to.
+- it is a collection of files that Git is paying attention to.
   - Usually, one project = one repository
   - Large projects may have multiple repositories for different parts of their system (Repo for front end code vs Repo for back end code)
   - *Repos* (Repositories) can live on GitHub and/or your computer.
