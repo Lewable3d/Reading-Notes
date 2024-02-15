@@ -98,6 +98,14 @@ copying Repos from your GitHub to your computer: connecting information between 
 - command in terminal: *git add* . : commit changes made to multiple files at once
 - command in terminal: *git add* * : commit changes made to multiple files at once
 
+## Terminal File Navigation
+
+1. ls where I am username
+2. cd
+3. pojects
+4. code-102
+5. Infinite80
+
 :smirk:
 
 - **[Code Fellow Lewis Main Page](https://lewable3d.github.io/Reading-Notes/)**
