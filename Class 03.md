@@ -88,6 +88,8 @@ copying Repos from your GitHub to your computer: connecting information between 
 - command in terminal: *git restore --staged <file>*... to unstage
 - command in terminal: *git commit -m "message here"*  takes the snapshot -m (argument) means include message
 - command in terminal: *git push origin main* sends any new commits (snapshots of your code) to Github.
+- command in terminal: *git add .* commit changes made to multiple files at once
+- command in terminal: *git add* * commit changes made to multiple files at once
 
 :smirk:
 
