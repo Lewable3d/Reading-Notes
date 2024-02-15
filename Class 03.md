@@ -72,6 +72,7 @@
 
 ## Cloning 
 copying Repos from your GitHub to your computer: connecting information between GitHub and your computer.
+- command in terminal: git clone then paste link
 
 
 
