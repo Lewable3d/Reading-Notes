@@ -85,8 +85,8 @@ copying Repos from your GitHub to your computer: connecting information between 
 - command in terminal: *git add* <file> to update what will be committed
 - command in terminal: *git restore* <file> to discard changes in working directory.
 - command in terminal: *git add*" and/or "*git commit -a*"
-- command in terminal: *git restore --staged <file>*..." to unstage
-- command in terminal: *git commit -m "message here"* takes the snapshot -m means include message
+- command in terminal: *git restore --staged <file>*... to unstage
+- command in terminal: *git commit -m "message here"*  takes the snapshot -m (argument) means include message
 
 :smirk:
 
