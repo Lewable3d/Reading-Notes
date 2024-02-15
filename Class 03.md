@@ -79,7 +79,8 @@ copying Repos from your GitHub to your computer: connecting information between 
 - Adding committing to changes and sending them back to github.
 - command in terminal: *git status* tells you what files have changed since your last commit.
 - command in terminal: *code .* open current folder in VS Code Editor
-
+- comand in terminal: *git add <file>* to update what will be committed
+- comand in terminal: *git restore <file>* to discard changes in working directory.
 
 :smirk:
 
