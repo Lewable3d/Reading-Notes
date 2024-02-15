@@ -70,7 +70,7 @@
   - Large projects may have multiple repositories for different parts of their system (Repo for front end code vs Repo for back end code)
   - *Repos* (Repositories) can live on GitHub and/or your computer.
 
-## Cloning 
+## Cloning: Copying repo to terminal
 
 copying Repos from your GitHub to your computer: connecting information between GitHub and your computer.
 
@@ -113,8 +113,6 @@ copying Repos from your GitHub to your computer: connecting information between 
 3. pojects
 4. code-102
 5. Infinite80
-
-:smirk:
 
 - **[Code Fellow Lewis Main Page](https://lewable3d.github.io/Reading-Notes/)**
 
