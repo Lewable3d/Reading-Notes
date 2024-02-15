@@ -71,11 +71,14 @@
   - *Repos* (Repositories) can live on GitHub and/or your computer.
 
 ## Cloning 
+
 copying Repos from your GitHub to your computer: connecting information between GitHub and your computer.
+
 - command in terminal: *git clone* then paste link
 - command in terminal: *git remote -v*  git (main) link
 
 ## gitflow: acp add, commit, push
+
 - Adding committing to changes and sending them back to github.
 - command in terminal: *git status* tells you what files have changed since your last commit.
 - command in terminal: *code* . open current folder in VS Code Editor
@@ -83,6 +86,7 @@ copying Repos from your GitHub to your computer: connecting information between 
 - command in terminal: *git restore* <file> to discard changes in working directory.
 - command in terminal: *git add*" and/or "*git commit -a*"
 - command in terminal: *git restore --staged <file>*..." to unstage
+- command in terminal: *git commit -m "message here"* takes the snapshot -m means include message
 
 :smirk:
 
