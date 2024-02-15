@@ -39,7 +39,7 @@
 
 ## Git Summary
 
-- You Git to take snapshots of your code at points in time
+- Git takes snapshots of your code at points in time
 - Git keeps a history of what those snapshots look like
 - Git has a special label called *Head*, that means *"You Are Hare"*
 - Usually you will want to give your snapshot a label called a message to give detail of your changes.
@@ -72,6 +72,8 @@
 
 ## Cloning 
 copying Repos from your GitHub to your computer: connecting information between GitHub and your computer.
+
+
 
 
 :smirk:
