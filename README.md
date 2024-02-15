@@ -33,11 +33,11 @@ I am currently in retail sales of automotive parts and tools. I earned an Associ
 >
 > > * The Cyber Force is Coding...
 
-:smirk:
+## This website is a collection of my *Computer Science* Notes
 
 - **[Code Fellow Lewis Main Page](https://lewable3d.github.io/Reading-Notes/)**
 
-## NOTES
+## Table of Contents
 
 - **[Code-102-Class-1](https://lewable3d.github.io/Reading-Notes/Class%2001)**
 
