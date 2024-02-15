@@ -77,6 +77,14 @@ copying Repos from your GitHub to your computer: connecting information between 
 - command in terminal: *git clone* then paste link
 - command in terminal: *git remote -v*  git (main) link
 
+ ## Terminal File Navigation for cloning linking github VS code and your terminal
+
+1. ls where I am username
+2. cd
+3. pojects
+4. code-102
+5. Infinite80
+
 ## gitflow: acp add, commit, push 
 
 1. make changes 
