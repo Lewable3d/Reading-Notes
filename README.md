@@ -1,13 +1,5 @@
 # Lewis H. Ables III Reading Journal for Code Fellows
 
-### _REMEMBER:_ 
-
-- _SUCCESS_ is earned through ~~_MISTAKES_~~
-
-- Nothing worth doing is _EASY_
-
-- And Be _PATIENT_
-
 ### Hello Everyone!
 
 I am very excited about my new journey in computer science. I joined _Code Fellows_ to extend my computer skills and knowledge. 
@@ -43,5 +35,20 @@ I am currently in retail sales of automotive parts and tools. I earned an Associ
 
 - **[Code-102-Class-2](https://lewable3d.github.io/Reading-Notes/Class%2002)**
 
+- **[Code-102-Class-3](https://lewable3d.github.io/Reading-Notes/Class%2003)**
 
+- **[Code-102-Class-4](https://lewable3d.github.io/Reading-Notes/Class%2004)** 
+
+- **[Code-102-Class-5](https://lewable3d.github.io/Reading-Notes/Class%2005)**
+
+
+- **[Code-102-Class-6](https://lewable3d.github.io/Reading-Notes/Class%2006)**
+
+- **[Code-102-Class-7](https://lewable3d.github.io/Reading-Notes/Class%2007)**
+
+- **[Code-102-Class-8](https://lewable3d.github.io/Reading-Notes/Class%2008)**
+
+- **[Code-102-Class-9](https://lewable3d.github.io/Reading-Notes/Class%2009)**
+
+- **[Code-102-Class-10](https://lewable3d.github.io/Reading-Notes/Class%2010)**
 
