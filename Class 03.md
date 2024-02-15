@@ -72,12 +72,13 @@
 
 ## Cloning 
 copying Repos from your GitHub to your computer: connecting information between GitHub and your computer.
-- command in terminal: git clone then paste link
-- command in terminal: git remote -v  git (main) link
+- command in terminal: *git clone* then paste link
+- command in terminal: *git remote -v*  git (main) link
 
 ## gitflow: acp add, commit, push
-- saving committing to changes and sending them back to github.
-
+- Adding committing to changes and sending them back to github.
+- command in terminal: *git status* tells you what files have changed since your last commit.
+- command in terminal: *code .* open current folder in VS Code Editor
 
 
 :smirk:
