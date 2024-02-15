@@ -77,7 +77,14 @@ copying Repos from your GitHub to your computer: connecting information between 
 - command in terminal: *git clone* then paste link
 - command in terminal: *git remote -v*  git (main) link
 
-## gitflow: acp add, commit, push
+## gitflow: acp add, commit, push 
+
+1. make changes 
+2. git status
+3. git add README.md
+4. git commit -m to changes
+5. git push origin main
+6. git staus
 
 - Adding committing to changes and sending them back to github.
 - command in terminal: *git status* tells you what files have changed since your last commit.
