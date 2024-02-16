@@ -10,6 +10,7 @@ I am currently in retail sales of automotive parts and tools. I earned an Associ
  **Contact Info:**
  
  Cell Phone: 
+ ..
  
  405-764-2805
 
@@ -31,6 +32,8 @@ I am currently in retail sales of automotive parts and tools. I earned an Associ
 
 ## Table of Contents
 
+# Code 102
+
 - **[Code-102-Class-1](https://lewable3d.github.io/Reading-Notes/Class%2001)**
 
 - **[Code-102-Class-2](https://lewable3d.github.io/Reading-Notes/Class%2002)**
@@ -51,4 +54,6 @@ I am currently in retail sales of automotive parts and tools. I earned an Associ
 - **[Code-102-Class-9](https://lewable3d.github.io/Reading-Notes/Class%2009)**
 
 - **[Code-102-Class-10](https://lewable3d.github.io/Reading-Notes/Class%2010)**
+
+
 
