@@ -22,9 +22,9 @@ I am currently in retail sales of automotive parts and tools. I earned an Associ
 
  ![Lewis H. Ables III](IMG_3999.jpg)
 
-> * ###### *LewAble3D*
+> * # *LewAble3D*
 >
-> > * The Cyber Force is Coding...
+> > *The Cyber Force is Coding...
 
 ## This website is a collection of my *Computer Science* Notes
 
