@@ -34,29 +34,24 @@ I am currently in retail sales of automotive parts and tools. I earned an Associ
 
 # Code 102
 
-- **[102-Class-01](https://lewable3d.github.io/Reading-Notes/Class%2001)**
+- **[Code-102-Class-1](https://lewable3d.github.io/Reading-Notes/Class%2001)**
 
-- **[102-Class-02](https://lewable3d.github.io/Reading-Notes/Class%2002)**
+- **[Code-102-Class-2](https://lewable3d.github.io/Reading-Notes/Class%2002)**
 
-- **[102-Class-03](https://lewable3d.github.io/Reading-Notes/Class%2003)**
+- **[Code-102-Class-3](https://lewable3d.github.io/Reading-Notes/Class%2003)**
 
-- **[102-Class-04](https://lewable3d.github.io/Reading-Notes/Class%2004)** 
+- **[Code-102-Class-4](https://lewable3d.github.io/Reading-Notes/Class%2004)**
 
-- **[102-Class-05](https://lewable3d.github.io/Reading-Notes/Class%2005)**
+- **[Code-102-Class-5](https://lewable3d.github.io/Reading-Notes/Class%2005)**
+
+- **[Code-102-Class-6](https://lewable3d.github.io/Reading-Notes/Class%2006)**
+
+- **[Code-102-Class-7](https://lewable3d.github.io/Reading-Notes/Class%2007)**
+
+- **[Code-102-Class-8](https://lewable3d.github.io/Reading-Notes/Class%2008)**
+
+- **[Code-102-Class-9](https://lewable3d.github.io/Reading-Notes/Class%2009)**
 
 
-- **[102-Class-06](https://lewable3d.github.io/Reading-Notes/Class%2006)**
-
-- **[102-Class-07](https://lewable3d.github.io/Reading-Notes/Class%2007)**
-
-- **[102-Class-08](https://lewable3d.github.io/Reading-Notes/Class%2008)**
-
-- **[102-Class-09](https://lewable3d.github.io/Reading-Notes/Class%2009)**
-
-- **[102-Class-10](https://lewable3d.github.io/Reading-Notes/Class%2010)**
-
-# Code 201
-
-- **[201-Class-01](https://lewable3d.github.io/Reading-Notes/Class%2011)** 
 
 
