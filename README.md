@@ -36,22 +36,52 @@ I am currently in retail sales of automotive parts and tools. I earned an Associ
 
 - **[Code-102-Class-1](https://lewable3d.github.io/Reading-Notes/102-Class-01)**
 
-- **[Code-102-Class-2](https://lewable3d.github.io/Reading-Notes/Class%2002)**
+- **[Code-102-Class-2](https://lewable3d.github.io/Reading-Notes/102-Class-02)**
 
-- **[Code-102-Class-3](https://lewable3d.github.io/Reading-Notes/Class%2003)**
+- **[Code-102-Class-3](https://lewable3d.github.io/Reading-Notes/102-Class-03)**
 
-- **[Code-102-Class-4](https://lewable3d.github.io/Reading-Notes/Class%2004)**
+- **[Code-102-Class-4](https://lewable3d.github.io/Reading-Notes/102-Class-04)**
 
-- **[Code-102-Class-5](https://lewable3d.github.io/Reading-Notes/Class%2005)**
+- **[Code-102-Class-5](https://lewable3d.github.io/Reading-Notes/102-Class-05)**
 
-- **[Code-102-Class-6](https://lewable3d.github.io/Reading-Notes/Class%2006)**
+- **[Code-102-Class-6](https://lewable3d.github.io/Reading-Notes/102-Class-06)**
 
-- **[Code-102-Class-7](https://lewable3d.github.io/Reading-Notes/Class%2007)**
+- **[Code-102-Class-7](https://lewable3d.github.io/Reading-Notes/102-Class-07)**
 
-- **[Code-102-Class-8](https://lewable3d.github.io/Reading-Notes/Class%2008)**
+- **[Code-102-Class-8](https://lewable3d.github.io/Reading-Notes/102-Class-08)**
 
-- **[Code-102-Class-9](https://lewable3d.github.io/Reading-Notes/Class%2009)**
+- **[Code-102-Class-9](https://lewable3d.github.io/Reading-Notes/102-Class-09)**
 
+- **[Code-102-Class-10](https://lewable3d.github.io/Reading-Notes/102-Class-10)**
 
+# Code 201
 
+- **[Code-201-Class-01](https://lewable3d.github.io/Reading-Notes/201-Class-01)**
 
+- **[Code-201-Class-02](https://lewable3d.github.io/Reading-Notes/201-Class-02)**
+
+- **[Code-201-Class-03](https://lewable3d.github.io/Reading-Notes/201-Class-03)**
+
+- **[Code-201-Class-04](https://lewable3d.github.io/Reading-Notes/201-Class-04)**
+
+- **[Code-201-Class-05](https://lewable3d.github.io/Reading-Notes/201-Class-05)**
+
+- **[Code-201-Class-06](https://lewable3d.github.io/Reading-Notes/201-Class-06)**
+
+- **[Code-201-Class-07](https://lewable3d.github.io/Reading-Notes/201-Class-07)**
+
+- **[Code-201-Class-08](https://lewable3d.github.io/Reading-Notes/201-Class-08)**
+
+- **[Code-201-Class-09](https://lewable3d.github.io/Reading-Notes/201-Class-09)**
+
+- **[Code-201-Class-10](https://lewable3d.github.io/Reading-Notes/201-Class-10)**
+
+- **[Code-201-Class-11](https://lewable3d.github.io/Reading-Notes/201-Class-11)**
+
+- **[Code-201-Class-12](https://lewable3d.github.io/Reading-Notes/201-Class-12)**
+
+- **[Code-201-Class-13](https://lewable3d.github.io/Reading-Notes/201-Class-13)**
+
+- **[Code-201-Class-14](https://lewable3d.github.io/Reading-Notes/201-Class-14)**
+
+- **[Code-201-Class-15](https://lewable3d.github.io/Reading-Notes/201-Class-15)**
